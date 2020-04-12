@@ -3,4 +3,6 @@ Welcome to the ESD
 
 Learn about industry
 
+Learn about github
+
 Thank you
